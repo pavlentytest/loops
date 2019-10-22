@@ -15,8 +15,6 @@ public class Main {
         for(int i=10;i>0;i--) {
 
         }
-        int[] a = {23,5,6,7};
-        int b[] = {4,5,6,7};
         int[] d,c;
         c = new int[4];
         // foreach
